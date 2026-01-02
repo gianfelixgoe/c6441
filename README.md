@@ -10,8 +10,8 @@ The primary script (`packet_sniffer.py`) listens on a raw socket, parses:
 
 ### Docs
 
-- **Implementation deep dive**: `docs/IMPLEMENTATION.md`
-- **Future improvements**: `docs/IMPROVEMENTS.md`
+- **Implementation deep dive**: `docs/Implementation.md`
+- **Future improvements**: `docs/Improvements.md`
 
 ### Files
 
